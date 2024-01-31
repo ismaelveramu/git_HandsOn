@@ -33,4 +33,4 @@ if args.motif:
         print("NOT FOUND")
 
 
-parser.add_argument("-m", "--motif", type = str, required = False, help = "Motif")
+
